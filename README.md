@@ -12,11 +12,11 @@ Ce que je construis, une réalisation à la fois.
 
 **L'idée :** une page blanche, une décision à la fois, chaque choix expliqué.
 
-**Où ça en est (27/10/2026) :** la version 1.0.0 est sortie, validée point par point. Les applis la reprennent une à une.
+**Où ça en est (30/10/2026) :** la version 1.1.0 est sortie : la même identité sur le téléphone, la tablette, le Mac et une page web. Les applis la reprennent une à une.
 
 **Voir :** [makameo-identite](https://github.com/makameo-lab/makameo-identite)
 
-**Outils :** Claude Code (une IA) : on a décidé ensemble, point par point.
+**Outils :** Claude Code, une IA d'Anthropic, comme outil : elle propose et dessine, je décide de chaque point.
 
 ## MakaCook
 
